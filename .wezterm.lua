@@ -8,7 +8,7 @@ config.enable_tab_bar = false
 config.enable_scroll_bar = true
 config.window_background_opacity = 0.9
 
-config.font = wezterm.font("Consolas", { weight = "Medium" })
+config.font = wezterm.font("Noto Sans Mono", { weight = "Medium" })
 config.font_size = 12
 
 config.freetype_load_target = "Light"
